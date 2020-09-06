@@ -1,0 +1,7 @@
+Learnbay notes
+https://pad.ouvaton.coop/dsc_gaurav_8
+1. Anaconda (https://www.anaconda.com/products/individual)   https://repo.anaconda.com/archive/
+2. Github https://github.com
+3. https://git-scm.com/downloads
+4. https://notepad-plus-plus.org/downloads/
+5. https://github.com/leangaurav/dsc_weekennd_2020_08_30
